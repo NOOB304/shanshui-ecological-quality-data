@@ -1,0 +1,6 @@
+variable,name,unit,description
+kRSEI,Improved Remote Sensing Ecological Index,dimensionless,Higher values indicate higher ecological quality
+kNDVI,Kernel normalized difference vegetation index,dimensionless,Vegetation greenness
+WET,Tasseled-cap wetness,dimensionless,Surface wetness component
+NDBSI,Normalized difference built-up and soil index,dimensionless,Surface dryness component
+LST,Land surface temperature,degrees Celsius,Daytime surface temperature

@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite this versioned dataset and the associated article when available."
+type: dataset
+title: "Annual kRSEI and four ecological components for China, 2001-2025"
+authors:
+  - name: "NOOB304"
+    website: "https://github.com/NOOB304"
+version: "1.0.0"
+date-released: "2026-10-26"
+url: "https://github.com/NOOB304/shanshui-ecological-quality-data/releases/tag/v1.0.0"
+license: CC-BY-4.0
+keywords:
+  - ecological restoration
+  - kRSEI
+  - Shan-Shui Initiative
+  - remote sensing
